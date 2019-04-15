@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DemoArregloObjetos",
+      "request": "launch",
+      "mainClass": "DemoArregloObjetos"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DemoCirculo",
+      "request": "launch",
+      "mainClass": "DemoCirculo",
+      "console": "externalTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - External Terminal",
+      "request": "launch",
+      "console": "externalTerminal",
+      "mainClass": "DemoPersonas"
+    }
+  ]
+}
